@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500&family=Poppins:wght@300&display=swap');
+  
+ 
+body{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  transition: .2s ease-in;
+  background-color: #000000;
+}
+
+
+
+
+
+/* CHARACTERS SECTION  */
+
+#contenu{
+  display: flex;
+  flex-wrap: wrap;
+  min-height: 10px;  
+  justify-content: space-between;
+}
+.profile-info {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.5s;
+}
+
+.profile:hover .profile-info {
+  max-height: 200px; /* Ajustez la valeur en fonction de la quantité de contenu à afficher */
+}
+
+
+
+
+
+/* DETAILS SECTION  */
+.show-details{
+ 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  
+    background-color: #891515;
+
+}
+
+.details-section.show-details{
+  display: block;
+}
+
+.details-wrapper {
+  margin: 20px;
+  border-radius: 10px;
+  padding-block: 10px;
+  padding-inline: 10px;
+  background-color: rgb(74, 71, 67);
+}
+
+.details-wrapper .img-box{
+  border-radius: 50%;
+  width: 10vw; 
+  height: 10vw; 
+  object-fit: cover; 
+  display: block;
+  margin: 0 auto;
+  overflow:hidden;
+ 
+
+}
+
+.Gryffindor {
+      border: solid 0.5vw rgb(149, 20, 20);
+    }
+    .Slytherin {
+      border: solid 0.5vw rgb(31, 130, 31);
+    }
+    .Ravenclaw {
+      border: solid 0.5vw rgb(53, 53, 174);
+    }
+    .Hufflepuff {
+      border: solid 0.5vw rgb(222, 201, 46)
+    }
+
+.details-wrapper .img-box img{
+  width: 100%;
+ 
+}
+
+.details-wrapper h6{
+  font-family: 'Cinzel';
+  font-size: 1.2vw;
+  text-align: center;
+  margin-bottom: 0.8vw;
+  color: rgb(196, 167, 5);
+  cursor: pointer;
+  width:10vw;
+}
+.details-wrapper h6:hover{
+  color: rgb(255, 255, 255);
+}
+
+.details-wrapper .details-des ul{
+  list-style: none;
+  font-family: 'Poppins';
+  margin-bottom: 1.5vw;
+
+}
+
+
+
