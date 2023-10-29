@@ -720,7 +720,7 @@
       "actor": "Fiona Shaw",
       "alternate_actors": [],
       "alive": true,
-      "image": ""
+      "image": "img/FtuniaDursley.webp"
     },
     {
       "id": "7614cf6e-689e-47ac-a976-b1e9997637e9",
@@ -746,7 +746,7 @@
       "actor": "Harry Melling",
       "alternate_actors": [],
       "alive": true,
-      "image": ""
+      "image": "img/dudley-dursley.jpg"
     },
     {
       "id": "41cd0bbe-a943-431b-9bde-bb2cad3491a1",
@@ -772,7 +772,7 @@
       "actor": "Geraldine Somerville",
       "alternate_actors": [],
       "alive": false,
-      "image": ""
+      "image": "img/Lily_Potter.webp"
     },
     {
       "id": "34eb6182-00cf-4c95-ae73-7d2f34066d18",
@@ -800,7 +800,7 @@
       "actor": "Adrian Rawlins",
       "alternate_actors": [],
       "alive": false,
-      "image": ""
+      "image": "img/James_Potter.webp"
     },
     {
       "id": "b415c867-1cff-455e-b194-748662ac2cca",
@@ -830,7 +830,7 @@
         "Michael Gambon"
       ],
       "alive": false,
-      "image": ""
+      "image": "img/Albus_Dumbledore.webp"
     },
     {
       "id": "e9457467-d10a-4893-afa9-19f9602b218a",
@@ -858,7 +858,7 @@
       "actor": "Gemma Jones",
       "alternate_actors": [],
       "alive": true,
-      "image": ""
+      "image": "img/pomfrash.jpg"
     },
     {
       "id": "63c6fcff-a1a4-4caf-a5ac-e2197c12cb1e",
@@ -886,7 +886,7 @@
       "actor": "Kathryn Hunter",
       "alternate_actors": [],
       "alive": true,
-      "image": ""
+      "image": "img/figg.jpg"
     },
     {
       "id": "162b34f3-aaab-46ae-980b-f2a5ebceb684",
@@ -917,7 +917,7 @@
       "actor": "Pam Ferris",
       "alternate_actors": [],
       "alive": true,
-      "image": ""
+      "image": "img/Marjorie_dursley_promo.webp"
     },
     {
       "id": "d70f60ae-81ea-4230-905d-cb52c801c1fb",
@@ -969,7 +969,7 @@
       "actor": "Jason Boyd",
       "alternate_actors": [],
       "alive": true,
-      "image": ""
+      "image": "img/Piers.webp"
     },
     {
       "id": "a18ef59a-89cf-4afd-bf87-83273990d911",
@@ -995,7 +995,7 @@
       "actor": "Christopher Rithin",
       "alternate_actors": [],
       "alive": true,
-      "image": ""
+      "image": "img/dennis.png"
     },
     {
       "id": "ef33d1e6-427c-465e-9a9f-037442b376d3",
@@ -1021,7 +1021,7 @@
       "actor": "Richard Macklin",
       "alternate_actors": [],
       "alive": true,
-      "image": ""
+      "image": "img/Malcolm.webp"
     },
     {
       "id": "71a95495-134d-4af7-8473-5f3495979845",
@@ -1047,7 +1047,7 @@
       "actor": "",
       "alternate_actors": [],
       "alive": true,
-      "image": ""
+      "image": "img/Gordon.webp"
     },
     {
       "id": "933787c2-51e3-4eac-8a85-ab332cac0456",
@@ -1073,7 +1073,7 @@
       "actor": "",
       "alternate_actors": [],
       "alive": false,
-      "image": ""
+      "image": "img/Miranda_Goshawk_HM.webp"
     },
     {
       "id": "8b5bbdda-6a45-409c-99b7-0c64e69ed611",
@@ -1099,7 +1099,7 @@
       "actor": "",
       "alternate_actors": [],
       "alive": false,
-      "image": ""
+      "image": "img/Bagshot.webp"
     },
     {
       "id": "8674a5d1-b2ba-4025-ac6d-4d1aa3f49ad9",

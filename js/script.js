@@ -12,9 +12,14 @@ $(document).ready(function() {
             $.each(response, function(index, post) {
                 if (post.image == "") {
                     post.image = 'img/def.png';
-                }
+                } 
                 if ( post.patronus == "") {
                     post.patronus = 'None';
+                  
+                }
+                if ( post.house == "") {
+                    post.house = 'None';
+                  
                 }
                 if ( post.alive == false) {
                     post.alive = 'Dead';
