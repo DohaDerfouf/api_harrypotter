@@ -51,7 +51,10 @@ body{
 .details-section.show-details{
   display: block;
 }
+.details-wrapper-active{
 
+  z-index: 100;
+}
 .details-wrapper {
   margin: 20px;
   border-radius: 10px;
@@ -83,6 +86,9 @@ body{
     }
     .Hufflepuff {
       border: solid 0.5vw rgb(222, 201, 46)
+    }
+    .None {
+      border: solid 0.5vw rgb(247, 247, 247)
     }
 
 .details-wrapper .img-box img{

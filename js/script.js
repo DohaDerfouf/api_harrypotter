@@ -1,15 +1,14 @@
 $(document).ready(function() {
     console.log("ready");
     var monhtml = "";
-
-    $.ajax({
+     $.ajax({
         url: 'harry_potter.json',
         method: 'GET',
         dataType: 'json',
         success: function(response) {
             console.log(response);
 
-            $.each(response, function(index, post) {
+            $.each(response, function(_, post) {
                 if (post.image == "") {
                     post.image = 'img/def.png';
                 } 
@@ -27,7 +26,7 @@ $(document).ready(function() {
                     post.alive = 'Alive';
                 }
 
-                monhtml += "<div class='details-wrapper'>";
+                monhtml += "<div class='details-wrapper grid-item " + post.house + "'>";
                 monhtml += "<div class='img-box " + post.house + "'>";
                 monhtml += "  <img src='" + post.image + "' alt='" + post.id + "'>";
                 monhtml += "</div>";
@@ -50,7 +49,23 @@ $(document).ready(function() {
             $(".details-des h6").click(function() {
                 // Trouver le conteneur d'informations associé et le faire glisser vers le bas
                 $(this).siblings(".hidden-info").slideToggle();
+                $(this).closest(".details-wrapper").toggleClass("details-wrapper-active");
             });
+
+       
+            var $grid = $('.grid').isotope({
+                itemSelector: '.grid-item',
+                layoutMode: 'fitRows'
+            });
+            $('.filter button').on("click", function () {
+                var value = $(this).attr('data-name');
+              
+                $grid.isotope({
+                  filter: value
+                });
+              });
+        
         }
     });
 });
+
