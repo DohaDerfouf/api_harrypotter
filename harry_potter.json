@@ -1151,7 +1151,7 @@
       "actor": "",
       "alternate_actors": [],
       "alive": false,
-      "image": ""
+      "image": "img/EmericSwitch.webp"
     },
     {
       "id": "19fa7e4e-dadd-46a8-912e-51a1f622ce0e",
@@ -3297,7 +3297,7 @@
       "actor": "Hugh Mitchell",
       "alternate_actors": [],
       "alive": false,
-      "image": ""
+      "image": "img/Creevey3.webp"
     },
     {
       "id": "8d885bd9-6103-424b-b884-c26720a64d94",
@@ -8235,7 +8235,7 @@
       "actor": "Freddie Stroma",
       "alternate_actors": [],
       "alive": true,
-      "image": ""
+      "image": "img/Cormac McLaggen.webp"
     },
     {
       "id": "938559ee-e8e5-4963-8437-e7da04fd1b31",
@@ -9279,7 +9279,7 @@
       "actor": "Ralph Ineson",
       "alternate_actors": [],
       "alive": true,
-      "image": ""
+      "image": "img/Amycus Carrow.jpg"
     },
     {
       "id": "88c30ceb-c607-49bc-b6c9-85365aee9e8c",
@@ -9409,7 +9409,7 @@
       "actor": "Carolyn Pickles",
       "alternate_actors": [],
       "alive": false,
-      "image": ""
+      "image": "img/Charity.webp"
     },
     {
       "id": "4a45f7ae-518b-4e9a-bf6e-cb9134d29afc",
@@ -9487,7 +9487,7 @@
       "actor": "Hebe Beardsall",
       "alternate_actors": [],
       "alive": false,
-      "image": ""
+      "image": "img/Ariana_Dumbledore_3.webp"
     },
     {
       "id": "5cd214c9-7822-47e0-b41d-01939ade77e7",
@@ -9539,7 +9539,7 @@
       "actor": "",
       "alternate_actors": [],
       "alive": true,
-      "image": ""
+      "image": "img/Apolline Delacour.jpeg"
     },
     {
       "id": "5293240e-c512-4cdb-89b0-cb21ef8b04fb",
@@ -9911,7 +9911,7 @@
       "actor": "",
       "alternate_actors": [],
       "alive": true,
-      "image": ""
+      "image": "img/Alfred Cattermole.jpeg"
     },
     {
       "id": "0f5bc3a8-566d-443e-a49a-8e0616fb8dec",
@@ -9963,7 +9963,7 @@
       "actor": "",
       "alternate_actors": [],
       "alive": false,
-      "image": ""
+      "image": "img/Bowman Wright.jpeg"
     },
     {
       "id": "151f886b-2fcf-4010-9e6f-8621e616a2c4",
@@ -10225,7 +10225,7 @@
       "actor": "",
       "alternate_actors": [],
       "alive": false,
-      "image": ""
+      "image": "img/Antioch Peverell.jpg"
     },
     {
       "id": "9a8b9fcd-6610-4e24-a5c6-bec1aa50fadd",
@@ -10253,7 +10253,7 @@
       "actor": "",
       "alternate_actors": [],
       "alive": false,
-      "image": ""
+      "image": "img/Cadmus Peverell.jpg"
     },
     {
       "id": "461bddf4-cc9d-4737-b1a2-703c06b771a6",
